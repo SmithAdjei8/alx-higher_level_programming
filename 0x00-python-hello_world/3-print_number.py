@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 number = 98
-print(f"{number} Battery street {ord('\n')}")
+newline = ord('\n')
+print(f"{number} Battery street {newline}")

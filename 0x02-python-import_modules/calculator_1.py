@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def add(a, b):
-    """My addition function
+    """Addition function
 
     Args:
         a: first integer
@@ -13,7 +13,7 @@ def add(a, b):
 
 
 def sub(a, b):
-    """My subtraction function
+    """Subtraction function
 
     Args:
         a: first integer
@@ -26,7 +26,7 @@ def sub(a, b):
 
 
 def mul(a, b):
-    """My multiplication function
+    """Multiplication function
 
     Args:
         a: first integer
@@ -39,7 +39,7 @@ def mul(a, b):
 
 
 def div(a, b):
-    """My division function
+    """Division function
 
     Args:
         a: first integer

@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 class Rectangle:
-    """ Empty class """
+    """ Rectangle class is empty """
     pass

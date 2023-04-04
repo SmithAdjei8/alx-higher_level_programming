@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-"""
-
-This module is composed by a class that defines a Rectangle
-
-
-"""
-
 
 class Rectangle:
     """ Class that defines a rectangle """
@@ -130,7 +123,7 @@ class Rectangle:
         if self.width == 0 or self.height == 0:
             return rectangle
 
-        for i in range(self.height):
+        for ia in range(self.height):
             rectangle += (str(self.print_symbol) * self.width) + "\n"
 
         return rectangle[:-1]

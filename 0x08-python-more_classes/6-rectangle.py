@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-"""
-
-This module is composed by a class that defines a Rectangle
-
-
-"""
-
 
 class Rectangle:
     """ Class that defines a rectangle """
@@ -65,7 +58,6 @@ class Rectangle:
         Returns:
             rectangle height
 
-
         """
 
         return self.__height
@@ -95,7 +87,6 @@ class Rectangle:
 
         Returns:
             rectangle area
-
 
         """
 
@@ -144,8 +135,7 @@ class Rectangle:
         return "Rectangle({:d}, {:d})".format(self.width, self.height)
 
     def __del__(self):
-        """ Method that prints a message when the instance is deleted
-
+        """ Module that prints a message when the instance is deleted
 
         """
 

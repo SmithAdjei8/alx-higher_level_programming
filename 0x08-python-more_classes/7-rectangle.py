@@ -3,9 +3,7 @@
 
 This module is composed by a class that defines a Rectangle
 
-
 """
-
 
 class Rectangle:
     """ Class that defines a rectangle """
@@ -20,7 +18,6 @@ class Rectangle:
             width: rectangle width
             height: rectangle height
 
-
         """
 
         self.width = width
@@ -33,7 +30,6 @@ class Rectangle:
 
         Returns:
             rectangle width
-
 
         """
 
@@ -49,7 +45,6 @@ class Rectangle:
         Raises:
             TypeError: if width is not an integer
             ValueError: if width is less than zero
-
 
         """
 
@@ -130,7 +125,7 @@ class Rectangle:
         if self.width == 0 or self.height == 0:
             return rectangle
 
-        for i in range(self.height):
+        for q in range(self.height):
             rectangle += (str(self.print_symbol) * self.width) + "\n"
 
         return rectangle[:-1]

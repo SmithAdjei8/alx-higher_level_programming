@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-"""
-
-This module is composed by a class that defines a Rectangle
-
-
-"""
-
 
 class Rectangle:
     """ Class that defines a rectangle """
@@ -28,8 +21,7 @@ class Rectangle:
         """ method that returns the value of the width
 
         Returns:
-            rectangle width
-
+            the width of rectangle
 
         """
 

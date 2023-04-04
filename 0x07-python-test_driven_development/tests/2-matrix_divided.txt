@@ -1,4 +1,4 @@
-The ``2-matrix_divided`` module
+A ``2-matrix_divided`` module
 ============================
 
 Using ``matrix_divided``

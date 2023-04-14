@@ -13,7 +13,7 @@ class TestBaseMethods(unittest.TestCase):
     """ Suite to test Base class """
 
     def setUp(self):
-        """ Method invoked for each test """
+        """ Method calls for each test """
         Base._Base__nb_objects = 0
 
     def test_id(self):

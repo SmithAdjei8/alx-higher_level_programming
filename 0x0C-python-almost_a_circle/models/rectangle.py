@@ -9,7 +9,7 @@ class Rectangle(Base):
     """ Class Rectangle """
 
     def __init__(self, width, height, x=0, y=0, id=None):
-        """ Initializes instances """
+        """ Initialize instances """
         self.width = width
         self.height = height
         self.x = x

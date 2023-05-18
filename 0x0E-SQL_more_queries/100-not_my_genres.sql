@@ -1,4 +1,4 @@
--- Script that lists genres that not belong to Dexter show
+-- Script lists genres that not belong to Dexter show
 SELECT tv_genres.name -- Query to get genres that not belong
 FROM tv_genres
 LEFT JOIN

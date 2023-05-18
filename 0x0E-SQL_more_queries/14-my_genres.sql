@@ -1,4 +1,4 @@
--- Script that lists genres of Dexter show
+-- Script lists genres of Dexter show
 SELECT tv_genres.name -- Query to join tables
 FROM tv_genres
      JOIN tv_show_genres

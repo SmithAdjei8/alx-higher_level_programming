@@ -1,4 +1,4 @@
--- Script that lists all shows and all genres
+-- Script lists all shows and all genres
 SELECT tv_shows.title, tv_genres.name -- Query to join tables
 FROM tv_shows
      LEFT JOIN tv_show_genres

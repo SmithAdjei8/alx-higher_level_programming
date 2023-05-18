@@ -1,4 +1,4 @@
--- Script that lists shows that don't belong to Comedy genre
+-- Script lists shows that don't belong to Comedy genre
 SELECT tv_shows.title -- Query to get shows that are not comedies
 FROM tv_shows
 LEFT JOIN

@@ -11,5 +11,5 @@ class Square(Rectangle):
         super().__init__(self.__size, self.__size)
 
     def area(self):
-        """ Method that returns a string with the area """
+        """ Method returns a string with the area """
         return super().area()

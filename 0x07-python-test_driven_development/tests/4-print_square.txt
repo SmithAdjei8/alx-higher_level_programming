@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A ``4-print_square`` module
+=======
+The  ``4-print_square`` module
+>>>>>>> 9e6ac10cfb5ba6b5695391734734c295b6055fba
 ============================
 
 Using ``print_square``

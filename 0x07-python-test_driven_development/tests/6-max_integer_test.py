@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 """
 Unittest for max_integer([..])
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9e6ac10cfb5ba6b5695391734734c295b6055fba
 """
 import unittest
 max_integer = __import__('6-max_integer').max_integer

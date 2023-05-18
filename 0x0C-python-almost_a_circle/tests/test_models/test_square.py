@@ -10,7 +10,7 @@ from models.base import Base
 
 
 class TestSquareMethods(unittest.TestCase):
-    """ Suite to test Square class """
+    """ Suite to test Square shape class """
 
     def setUp(self):
         """ Method invoked for each test """

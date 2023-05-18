@@ -9,7 +9,7 @@ from models.base import Base
 
 
 class TestRectangleMethods(unittest.TestCase):
-    """ Suite to test Rectangle class """
+    """ Suite to test Rectangle shape class """
 
     def setUp(self):
         """ Method invoked for each test """

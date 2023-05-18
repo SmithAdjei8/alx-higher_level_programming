@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A ``2-matrix_divided`` module
+=======
+The  ``2-matrix_divided`` module
+>>>>>>> 9e6ac10cfb5ba6b5695391734734c295b6055fba
 ============================
 
 Using ``matrix_divided``

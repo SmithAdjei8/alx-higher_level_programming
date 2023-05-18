@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A ``101-lazy_matrix_mul`` module
+=======
+The  ``101-lazy_matrix_mul`` module
+>>>>>>> 9e6ac10cfb5ba6b5695391734734c295b6055fba
 ============================
 
 Using ``lazy_matrix_mul``

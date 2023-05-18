@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A ``3-say_my_name`` module
+=======
+The  ``3-say_my_name`` module
+>>>>>>> 9e6ac10cfb5ba6b5695391734734c295b6055fba
 ============================
 
 Using ``say_my_name``

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 
-This is a module that containts a clas that avoids
+Module that containts a clas that avoids
 dynmaically created attributes
 
 """
